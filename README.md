@@ -16,7 +16,7 @@ A Recycleview List 📃 app made in kotlin. It has a list of pokemons; currently
 Run/Test app by downloading the zip file or using GitHub Desktop.
 
 ```bash
-  git clone 
+  git clone https://github.com/Gauravdubeyy/Pokedex-App
 ```
     
 ## Screenshots
