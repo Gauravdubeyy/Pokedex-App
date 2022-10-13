@@ -20,6 +20,5 @@ Run/Test app by downloading the zip file or using GitHub Desktop.
 ```
     
 ## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+<img align="left" src="https://github.com/Gauravdubeyy/Pokedex-App/blob/master/Screenshots/screenshot.jpg" width="250" />
+<img align="left" src="https://github.com/Gauravdubeyy/Pokedex-App/blob/master/Screenshots/screen_rec.mp4" width="250" />
