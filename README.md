@@ -1,5 +1,5 @@
 
-# Pokedex
+# Pokedex (GDSC LNCT&S)
 
 A Recycleview List 📃 app made in kotlin. It has a list of pokemons; currently it's just a scrollable list but in future i'll update it. 
 
